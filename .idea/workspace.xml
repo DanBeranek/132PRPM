@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3fd53b-1196-4781-84de-e6dd345d60e5" name="Changes" comment="Solve homework02" />
+    <list default="true" id="3a3fd53b-1196-4781-84de-e6dd345d60e5" name="Changes" comment="Add .gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRPM_notebooks/viscoelasticity/creep_shrinkage_fib_MC2010_interact.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PRPM_notebooks/viscoelasticity/creep_shrinkage_fib_MC2010_interact.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework02/Poynting-Thomson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework02/Poynting-Thomson.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -59,6 +69,10 @@
       <workItem from="1698321830534" duration="142000" />
       <workItem from="1698322020910" duration="253000" />
       <workItem from="1698322373187" duration="18000" />
+      <workItem from="1698322392564" duration="543000" />
+      <workItem from="1698670035406" duration="19000" />
+      <workItem from="1698691469259" duration="2865000" />
+      <workItem from="1698694359247" duration="261000" />
     </task>
     <task id="LOCAL-00001" summary="Solve homework02">
       <option name="closed" value="true" />
@@ -68,7 +82,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698321915952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1698322411530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698322411530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Rename task01 to bonus01">
+      <option name="closed" value="true" />
+      <created>1698694193348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698694193348</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add .gitignore">
+      <option name="closed" value="true" />
+      <created>1698694301700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698694301700</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +125,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solve homework02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve homework02" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Rename task01 to bonus01" />
+    <MESSAGE value="Add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignore" />
   </component>
 </project>
